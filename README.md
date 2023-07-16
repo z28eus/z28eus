@@ -43,8 +43,8 @@ I'm the boss of 28, ٢٨ RULES THE WORLD.
 ### <p align="center">Disclaimer</p>
 
 <br><br>
-* Please use this program only for educational purposes.
-* It is not meant to be used in any malicious way, and I decline any responsibility for what you do with it.
+* Please use my program only for educational purposes.
+* I am in no way responsible for what you do with what I propose on my page..
 <br><br>
 
 -----
