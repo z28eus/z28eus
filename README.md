@@ -18,7 +18,7 @@ Pro in Carding, Osint, CyberSec Dev and more.
 I'm the boss of 28, ٢٨ RULES THE WORLD.
 <br><br><br>
 </strong>
-<img src="https://media.discordapp.net/attachments/1002625111997812836/1130120302353989702/7227517138003676443.jpg?width=507&height=676" width="500", height="400">
+<img src="https://media.discordapp.net/attachments/1002625111997812836/1130120535951552522/image.png" width="500", height="400">
 </p>
 <br>
 
