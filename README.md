@@ -1,7 +1,7 @@
 -----
 
 <p align="center">
-<img src="https://media.discordapp.net/attachments/1002625111997812836/1130112676232704000/image.png", width="500", height="500">
+<img src="https://media.discordapp.net/attachments/1002625111997812836/1130127172510699571/image.png", width="500", height="500">
 </p>
 
 -----
