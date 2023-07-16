@@ -1,7 +1,7 @@
 -----
 
 <p align="center">
-<img src="https://media.discordapp.net/attachments/1002625111997812836/1126692441110610031/image.png", width="500", height="500">
+<img src="https://media.discordapp.net/attachments/1002625111997812836/1130112676232704000/image.png", width="500", height="500">
 </p>
 
 -----
@@ -18,7 +18,7 @@ Pro in Carding, Osint, CyberSec Dev and more.
 I'm the boss of 28, ٢٨ RULES THE WORLD.
 <br><br><br>
 </strong>
-<img src="https://cdn.discordapp.com/attachments/940036299941904405/994447869736128573/zyro-image_7.png" width="500", height="400">
+<img src="https://media.discordapp.net/attachments/1002625111997812836/1130120302353989702/7227517138003676443.jpg?width=507&height=676" width="500", height="400">
 </p>
 <br>
 
