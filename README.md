@@ -11,7 +11,7 @@
 <br><br>
 <p align="center">
 <strong>
-Hi im zEus, I dev some tools in various languages, <a href="https://media.discordapp.net/attachments/1002625111997812836/1130110667299491891/image.png">My old github account got banned.</a>
+Hi im zEus, I dev some tools in various languages, My old github account got <a href="https://media.discordapp.net/attachments/1002625111997812836/1130110667299491891/image.png">banned.</a>
 <br><br>
 Pro in Carding, Osint, CyberSec Dev and more.
 <br><br>
