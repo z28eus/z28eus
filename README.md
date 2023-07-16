@@ -24,31 +24,27 @@ I'm the boss of 28, ٢٨ RULES THE WORLD.
 
 -----
 
-### <p align="center">⭐ Features ⭐</p>
+### <p align="center">Languages</p>
 
 <br><br>
-<strong>+ The only limit... is you! The faster your connection is, the more powerful will be the attack</strong>
+<strong>+ My fav languages is Python, Html and json.</strong>
 <br>
-<strong>+ Show informations about the attack in real time</strong>
-<br>
-<strong>+ Can down servers but also family networks</strong>
+<strong>+ I can dev with other languages but it's less familiar</strong>
 <br>
 
 <p align="right">
-<img src="https://repository-images.githubusercontent.com/511306162/fbf9f42b-8aee-4d1a-8f2f-5b68285736a7" width="250", height="250">
+<img src="https://media.discordapp.net/attachments/1002625111997812836/1130122828537151580/image.png" width="250", height="250">
 </p>
 
-<br>
-<strong>- Only works on networks without a firewall (but who uses firewalls anyways 😂)</strong>
 <br><br>
 
 -----
 
-### <p align="center">📌 Disclaimer 📌</p>
+### <p align="center">Disclaimer</p>
 
 <br><br>
-* ***Please use this program only for educational purposes.***
-* ***It is not meant to be used in any malicious way, and I decline any responsibility for what you do with it.***
+* Please use this program only for educational purposes.
+* It is not meant to be used in any malicious way, and I decline any responsibility for what you do with it.
 <br><br>
 
 -----
